@@ -3,13 +3,6 @@ title: "Data Science Project"
 output: html_notebook
 ---
 
-# Student Information
-
-Jack Bradshaw, 250807060
-Will Malisch, 250846447
-Selina Phan, 250863526
-Sonaya Ravichandran, 250804258  
-
 # Data Set Description  
 
 This data set was collected by researchers at the Columbia Business School for a research study. The study gathered data in an speed dating events that took place from 2002 to 2004. 
